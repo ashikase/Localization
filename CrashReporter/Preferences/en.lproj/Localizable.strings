@@ -1,0 +1,4 @@
+TITLE_NOTIFY_SEND = "Send notifications for:";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Execution Timeouts";
+PREF_NOTIFY_LOW_MEMORY = "Low Memory";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox Violation";
