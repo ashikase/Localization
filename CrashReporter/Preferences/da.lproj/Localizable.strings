@@ -1,0 +1,4 @@
+TITLE_NOTIFY_SEND = "Send notifikationer fra:";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Udførelse Timeouts";
+PREF_NOTIFY_LOW_MEMORY = "Lavt hukommelsesniveau";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox Overtrædelse";
