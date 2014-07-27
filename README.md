@@ -14,7 +14,7 @@ Localization directories should be named using a locale ID consisting of an ISO 
 
 * [Language and Locale IDs](https://developer.apple.com/library/prerelease/ios/documentation/MacOSX/Conceptual/BPInternational/LanguageandLocaleIDs/LanguageandLocaleIDs.html)
 
-Please keep translations as close as possible in meaning to the original English. Please do not use slang or inappropriate language.
+Please keep translations as close as possible in meaning to the original English. Please do not use slang or inappropriate language. Localizations created by native speakers are preferred.
 
 Contributing
 ============
