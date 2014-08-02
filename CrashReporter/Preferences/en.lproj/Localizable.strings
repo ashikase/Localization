@@ -1,4 +1,7 @@
 TITLE_NOTIFY_SEND = "Send notifications for:";
+PREF_NOTIFY_EXCESS_CPU = "Excessive CPU Usage";
+PREF_NOTIFY_EXCESS_MEMORY = "Excessive Memory Usage";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Excessive Wakeups";
 PREF_NOTIFY_EXECUTION_TIMEOUTS = "Execution Timeouts";
 PREF_NOTIFY_LOW_MEMORY = "Low Memory";
 PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox Violation";
