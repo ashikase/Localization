@@ -2,7 +2,6 @@ BACK = "Tilbage";
 CANCEL = "Annuller";
 CONTINUE = "Fortsæt";
 CRASHED_PROCESS = "Nedbrudt process";
-CRASHREPORTER = "NedbrudsReporter";
 CRASH_DETECTED = "Nedbrud Opdaget";
 CUSTOM_BLAME_WARNING = "Advarsel: Indtastning af ugyldig data kan beskadige dit system. Brug kun denne side med hjælp fra udvikleren";
 EARLIER = "Tidligere";

@@ -3,7 +3,6 @@ CANCEL = "Annuler";
 CONTINUE = "Continuer";
 CRASH_DETECTED = "Crash détecté";
 CRASHED_PROCESS = "Processus de crash";
-CRASHREPORTER = "CrashReporter";
 CUSTOM_BLAME_WARNING = "Attention: La saisie de données non valides peut corrompre votre système. Utilisez cette page uniquement pour contacter le développeur.";
 EARLIER = "Anciens crash";
 EDIT = "Éditer";

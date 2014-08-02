@@ -2,7 +2,6 @@ BACK = "返回";
 CANCEL = "Cancel";
 CONTINUE = "繼續";
 CRASHED_PROCESS = "崩潰的過程";
-CRASHREPORTER = "回報錯誤";
 CRASH_DETECTED = "检测到崩溃"; // the previous Chinese translator seems to refer to "crashes" as "errors" instead - I translated it to "crash" in this case. not sure whether to stick with "error" for consistency or...
 CUSTOM_BLAME_WARNING = "警告：在此輸入無效的資料可能導致系統損毀。僅於開發者指導下使用。";
 EARLIER = "較早前";

@@ -2,7 +2,6 @@ BACK = "Back";
 CANCEL = "Cancel";
 CONTINUE = "Continue";
 CRASHED_PROCESS = "Crashed process";
-CRASHREPORTER = "CrashReporter";
 CRASH_DETECTED = "Crash Detected";
 CUSTOM_BLAME_WARNING = "Warning: Entering invalid data may corrupt your system. Use this page only in guidance of the developer.";
 EARLIER = "Earlier";
