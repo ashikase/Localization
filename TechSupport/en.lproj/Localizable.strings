@@ -8,6 +8,7 @@ DETAIL_REQUIRED_MESSAGE = "You must enter a message in order to proceed.";
 DETAIL_REQUIRED_TITLE = "Input Required";
 EMAIL_FAILED_1 = "Failed to send email.\nError: ";
 EMAIL_PLACEHOLDER = "Please enter details here, such as:\n\n* When did the issue begin?\n\n* What steps led to the issue?\n\n* Does the issue happen every time?";
+NOT_TEXT_MESSAGE = "The selected file does not appear to be a text file.\n\nIt cannot be displayed with the built-in viewer.";
 INCLUDE_UNTITLED = "Untitled";
 OK = "OK";
 VIEW_IN_APP_STORE = "View package in App Store";

@@ -6,6 +6,7 @@ DETAIL_REQUIRED_MESSAGE = "You must enter a message in order to proceed.";
 DETAIL_REQUIRED_TITLE = "Input Required";
 EMAIL_FAILED_1 = "Kunne ikke sende email. \nFejl: ";
 EMAIL_PLACEHOLDER = "Skriv detaljer her. som:\n\n* Hvornår opstod problemet? \n\n* Hvad forårsagede problemet? \n\n* Sker nedbrudet hver gang?";
+NOT_TEXT_MESSAGE = "The selected file does not appear to be a text file.\n\nIt cannot be displayed with the built-in viewer.";
 INCLUDE_UNTITLED = "Untitled";
 OK = "OK";
 VIEW_IN_APP_STORE = "Vis pakke i App Store";
