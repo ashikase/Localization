@@ -1,6 +1,8 @@
 BACK = "Retour";
 CANCEL = "Annuler";
 CONTINUE = "Continuer";
+COLLABORATE_MESSAGE = "CrashReporter is open source.\n\nHelp improve CrashReporter by submitting code, feature requests, issue reports and localizations.\n\nMore information about the different parts of CrashReporter is available by tapping the buttons below.";
+COLLABORATE_TITLE = "Share the Burden";
 CONTRIBUTE_MONEY_MESSAGE = "I put a lot of time into CrashReporter and its related packages, but I don't get paid for it.\n\nHelp me stay fed and caffeinated by sending me a bit of your pocket change.";
 CONTRIBUTE_MONEY_FLATTR = "Contribute via Flattr";
 CONTRIBUTE_MONEY_PAYPAL = "Contribute via PayPal";
