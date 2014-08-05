@@ -1,0 +1,15 @@
+"Upload failed" = "KArşıya yükleme başarısız";
+"pastie.org is unreachable." = "pastie.org'a ulaşılamıyor.";
+ATTACHMENTS = "Ekler";
+CANNOT_EMAIL = "Bu cihazdan e-posta gönderilemiyor";
+CONTACT_AUTHOR = "Yapımcıya ulaşın";
+COPY = "Kopyala";
+DETAIL_REQUIRED_MESSAGE = "İlerlemek için bir mesaj girmelisiniz.";
+DETAIL_REQUIRED_TITLE = "Metin gerekli";
+EMAIL_FAILED_1 = "E-posta gönderme başarısız.\nHata: ";
+EMAIL_PLACEHOLDER = "Lütfen şunun gibi detayları girin:\n\n* Sorun ne zaman başladı?\n\n* Hangi adımlar soruna ulaştırıyor?\n\n* Bu sorun hep mi oluyor?";
+NOT_TEXT_MESSAGE = "Seçili dosya bir metin dosyası değil.\n\nGömülü görüntüleyiciyle gösterilemez.";
+INCLUDE_UNTITLED = "Başlıksız";
+OK = "Tamam";
+VIEW_IN_APP_STORE = "App Store'da görüntüle";
+VIEW_IN_CYDIA = "Cydia'da görüntüle";

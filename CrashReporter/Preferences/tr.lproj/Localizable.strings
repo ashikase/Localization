@@ -1,0 +1,7 @@
+TITLE_NOTIFY_SEND = "Şunlar için bildirim gönder:";
+PREF_NOTIFY_EXCESS_CPU = "Aşırı CPU kullanımı:";
+PREF_NOTIFY_EXCESS_MEMORY = "Aşırı hafıza kullanımı:";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Aşırı yorulma:";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Yürütme zamanı";
+PREF_NOTIFY_LOW_MEMORY = "Düşük hafıza";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox güvenlik ihlali";
