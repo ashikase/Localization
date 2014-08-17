@@ -41,6 +41,7 @@ NOTIFY_SANDBOX_VIOLATION = "\"%@\" violated sandbox.";
 OK = "好";
 OTHER_SUSPECTS = "別的因";
 PACKAGE_FAILED_1 = "這個文件關聯的程序包不存在、還是可能不是從Cydia還是App Store來的。";
+PACKAGE_INSTALL_DATE_PREFIX = "Installed";
 PROCESSING = "Processing...";
 REPORTCRASH_DISABLED_TITLE = "Crash Logging is Disabled";
 REPORTCRASH_DISABLED_MESSAGE = "It appears that the ReportCrash daemon has been disabled on your device.\n\nWithout this daemon, crash logs will not be generated when a process crashes.\n\nPlease re-enable ReportCrash.\n\nIt only runs when a process crashes, so it will not shorten your battery life or slow down your device.";

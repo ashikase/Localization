@@ -41,6 +41,7 @@ NOTIFY_SANDBOX_VIOLATION = "\"%@\" violated sandbox.";
 OK = "OK";
 OTHER_SUSPECTS = "Other suspects";
 PACKAGE_FAILED_1 = "The package that owns this file is either no longer installed, or was not installed via Cydia or the App Store.";
+PACKAGE_INSTALL_DATE_PREFIX = "Installed";
 PROCESSING = "Processing...";
 REPORTCRASH_DISABLED_TITLE = "Crash Logging is Disabled";
 REPORTCRASH_DISABLED_MESSAGE = "It appears that the ReportCrash daemon has been disabled on your device.\n\nWithout this daemon, crash logs will not be generated when a process crashes.\n\nPlease re-enable ReportCrash.\n\nIt only runs when a process crashes, so it will not shorten your battery life or slow down your device.";

@@ -41,6 +41,7 @@ NOTIFY_SANDBOX_VIOLATION = "\"%@\" porušil sandbox.";
 OK = "OK";
 OTHER_SUSPECTS = "Jiné podezřelé";
 PACKAGE_FAILED_1 = "Program/skript který vlastní tento soubor již pravděpodobně není ve Vašem zařízení.";
+PACKAGE_INSTALL_DATE_PREFIX = "Installed";
 PROCESSING = "Processing...";
 REPORTCRASH_DISABLED_TITLE = "Crash protokoly jsou vypnuté";
 REPORTCRASH_DISABLED_MESSAGE = "Vypadá to, že ReportCrash daemon je vypnutý na Vašem zařízení.\n\nBez tohoto daemona, crash protokoly nebudou generovány když nějaký process spadne.\n\nProsím, zapněte znovu ReportCrash Daemon.\n\nDaemon pouze běží když spadne nějaký process, tzn. že Vám nebude zkracovat dobu Vaší baterie ani využití Vašeho výkonu.";

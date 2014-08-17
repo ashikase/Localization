@@ -41,6 +41,7 @@ NOTIFY_SANDBOX_VIOLATION = "\"%@\" à violé le sandbox.";
 OK = "OK";
 OTHER_SUSPECTS = "Autres suspects";
 PACKAGE_FAILED_1 = "Le paquet auquel appartient ce fichier n'est plus installé, ou n'a pas été installé via Cydia ou l'App Store.";
+PACKAGE_INSTALL_DATE_PREFIX = "Installed";
 PROCESSING = "Processing...";
 REPORTCRASH_DISABLED_TITLE = "Crash Logging est désactivée";
 REPORTCRASH_DISABLED_MESSAGE = "Il semblerait que le daemon ReportCrash a été désactivé sur votre appareil.\n\nSans ce daemon, les crash logs ne seront pas généré lorsqu'un processus se bloque.\n\nVeuillez réactiver ReportCrash.\n\nIl s'exécute uniquement lorsqu'un processus se bloque, donc il n'endommagera pas votre batterie et ne ralentira votre appareil.";

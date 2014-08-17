@@ -41,6 +41,7 @@ NOTIFY_SANDBOX_VIOLATION = "\"%@\" sandbox güvenlik ihlali.";
 OK = "Tamam";
 OTHER_SUSPECTS = "Diğer şüpheliler";
 PACKAGE_FAILED_1 = "Bu dosyanın sahibi olan paket ya kaldırılmış, ya da AppStore veya Cydia'dan yüklenmemiş.";
+PACKAGE_INSTALL_DATE_PREFIX = "Installed";
 PROCESSING = "Processing...";
 REPORTCRASH_DISABLED_TITLE = "Çökme raporları kaydetme kapalı";
 REPORTCRASH_DISABLED_MESSAGE = "ReportCrash daemon'u cihazınızda etkisizleştirilmiş gibi gözüküyor.\n\nBu daemon olmadan, bir çökme yaşandığında çökme raporları oluşturulamaz.\n\nLütfen ReportCrash'ı tekrar aktive edin.\n\nSadece bir işlem çöktüğünde çalışacağından, ne bataryanızı azaltır ne de cihazınızı yavaşlatır";
