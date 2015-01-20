@@ -1,0 +1,7 @@
+TITLE_NOTIFY_SEND = "Mitteilungen senden für:";
+PREF_NOTIFY_EXCESS_CPU = "Massive CPU-Auslastung";
+PREF_NOTIFY_EXCESS_MEMORY = "Massive RAM-Nutzung";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Zu oft Gerät geweckt";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Zeitüberschreitung der Ausführung";
+PREF_NOTIFY_LOW_MEMORY = "Wenig RAM";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox-Verstoß";
