@@ -1,0 +1,15 @@
+"Upload failed" = "Chyba nahrávání";
+"pastie.org is unreachable." = "Stránka pastie.org je nedostupná";
+ATTACHMENTS = "Přílohy";
+CANNOT_EMAIL = "Není možno poslat e-mail z tohoto zařízení";
+CONTACT_AUTHOR = "kontaktovat autora";
+COPY = "Zkopírovat";
+DETAIL_REQUIRED_MESSAGE = "Musíte napsat zprávu abyste mohli pokračovat";
+DETAIL_REQUIRED_TITLE = "Požadován napis";
+EMAIL_FAILED_1 = "Vyskytla se chyba při odesílání e-mailu\nChyba: ";
+EMAIL_PLACEHOLDER = "Detaily napište zde:\n\n* Od kdy se začala tato chyba vyskytovat?\n\n* Jaké kroky vedly k tomuto problému?\n\n* Stávala se tato chyba pokaždé?";
+NOT_TEXT_MESSAGE = "Vybraný soubor se nejeví jako textový soubor.\n\nNení možné jej prohlížet v zabudovaném editoru.";
+INCLUDE_UNTITLED = "Bez názvu";
+OK = "OK";
+VIEW_IN_APP_STORE = "Ukázat v App Storu";
+VIEW_IN_CYDIA = "Ukázat v Cydia";
