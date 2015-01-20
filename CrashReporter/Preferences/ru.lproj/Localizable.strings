@@ -1,7 +1,7 @@
 TITLE_NOTIFY_SEND = "Отправлять уведомления когда:";
-PREF_NOTIFY_EXCESS_CPU = "Занимает много ЦП";
-PREF_NOTIFY_EXCESS_MEMORY = "Занимает много Памяти";
-PREF_NOTIFY_EXCESS_WAKEUPS = "Чрезмерные Просыпания";
-PREF_NOTIFY_EXECUTION_TIMEOUTS = "Выполнении тайм-аутов";
-PREF_NOTIFY_LOW_MEMORY = "Мало Памяти";
-PREF_NOTIFY_SANDBOX_VIOLATIONS = "Нарушено Правило Песочницы";
+PREF_NOTIFY_EXCESS_CPU = "Чрезмерное использование ЦП";
+PREF_NOTIFY_EXCESS_MEMORY = "Чрезмерное использование памяти";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Чрезмерные пробуждения";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Тайм-аут выполнения";
+PREF_NOTIFY_LOW_MEMORY = "Мало мамяти";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Нарушены правила Песочницы";
