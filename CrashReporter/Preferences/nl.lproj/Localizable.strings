@@ -1,0 +1,7 @@
+TITLE_NOTIFY_SEND = "Meldingen voor:";
+PREF_NOTIFY_EXCESS_CPU = "Overmatige CPU-belasting";
+PREF_NOTIFY_EXCESS_MEMORY = "Overmatig RAM-gebruik";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Overmatig ontwaken";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "Time-outs van uitvoeringen";
+PREF_NOTIFY_LOW_MEMORY = "Weinig RAM";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "Sandbox-overtreding";
